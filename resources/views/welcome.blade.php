@@ -81,7 +81,21 @@
                 <div class="title m-b-md">
                     Edu Tuesta Pascual LAB3
                 </div>
-                <img src="\xampp\htdocs\UppLaboratorio3\imagenes\3.jpg" width="811" height="456">
+                <body Styles="margin: 0px; background: #0e0e0e:">
+                <img style="-webkit-user-select: none;cursor: zoom-in;" 
+                src="http://gruporivas.com.mx/wp-content/uploads/2018/04/portada-tatuajes-animales.jpg" width="811" height="456">
+                              
+                </body>
+               <body>
+               <audio controls="controls">
+               <source src="Quiero Una Chica.ogg" type="audio/ogg" />
+               <source src="Quiero Una Chica.mp3" type="audio/mpeg" /><!-- no funciona la musica -->
+               su navegador no soporta el elemento del audio.
+               </audio>
+               </body>
+               
+               
+                
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Quienes somos</a>
