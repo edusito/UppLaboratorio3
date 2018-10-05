@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Edu Tuesta Pascual LAB3
                 </div>
-
+                <img src="\xampp\htdocs\UppLaboratorio3\imagenes\3.jpg" width="811" height="456">
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Quienes somos</a>
