@@ -83,28 +83,25 @@
                 </div>
                 <body Styles="margin: 0px; background: #0e0e0e:">
                 <img style="-webkit-user-select: none;cursor: zoom-in;" 
-                src="http://gruporivas.com.mx/wp-content/uploads/2018/04/portada-tatuajes-animales.jpg" width="811" height="456">
-                              
-             </body>
-               <body>
-               <audio controls="controls">
-               <source src="Quiero Una Chica.ogg" type="audio/ogg" />
-               <source src="Quiero Una Chica.mp3" type="audio/mpeg" />  <!-- /no funciona la musica -->
-             su navegador no soporta el elemento del audio.
-               </audio>
-               </body> 
-                    <h1>
-                    Hola Edu como estas
-                    </h1>
-               <head>
-               <title>HTML5 Audio Tutorial</title>
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <script src="http://code.jQuery.com/jQuery-latest.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/js.js"></script>
-    <script type="text/javascript" src="js/html5slider.js"></script>
-               </head>
+                src="imagenes\3.jpg" width="811" height="456">
+                        
+                <article>
+                    <h2>    video para la pagina </h2>    
+                    <video src= "Videos\Alan Walker - Faded.mp4"  controls="controls" preload="preload" autoplay="autoplay" loop="loop">
+                         width=400 hight=300>    
+                         <source src="aw.ogg" type="video/ogg"/>   
+                         <source src="aw.mp4" type="video/mp4"/>
+                         <source src="aw.webm" type="video/webm"/>    
+                    </video>         
+                </article>
+
+
+                <article>
+                <h2> otro ejemplo de audio</h2>
+                <audio src="imagenes\QuieroUnaChica.mp3" controls="controls">
+                este navegador no aepta audio html5
+                </audio>
+                </article>
                
                
                 
