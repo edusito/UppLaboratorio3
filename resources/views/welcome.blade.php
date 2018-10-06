@@ -85,22 +85,32 @@
                 <img style="-webkit-user-select: none;cursor: zoom-in;" 
                 src="http://gruporivas.com.mx/wp-content/uploads/2018/04/portada-tatuajes-animales.jpg" width="811" height="456">
                               
-                </body>
+             </body>
                <body>
                <audio controls="controls">
                <source src="Quiero Una Chica.ogg" type="audio/ogg" />
-               <source src="Quiero Una Chica.mp3" type="audio/mpeg" /><!-- no funciona la musica -->
-               su navegador no soporta el elemento del audio.
+               <source src="Quiero Una Chica.mp3" type="audio/mpeg" />  <!-- /no funciona la musica -->
+             su navegador no soporta el elemento del audio.
                </audio>
-               </body>
+               </body> 
+                    
+               <head>
+               <title>HTML5 Audio Tutorial</title>
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="http://code.jQuery.com/jQuery-latest.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/js.js"></script>
+    <script type="text/javascript" src="js/html5slider.js"></script>
+               </head>
                
                
                 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Quienes somos</a>
-                    <a href="https://laravel-news.com">MISION</a>
-                    <a href="https://nova.laravel.com">VISION</a>
+                    <a href="https://laravel.com/docs">Documentacion</a>
+                    <a href="https://laracasts.com">Quienes Somos</a>
+                    <a href="https://laravel-news.com">Mision</a>
+                    <a href="https://nova.laravel.com">Vision</a>
                     <a href="https://github.com/laravel/laravel">Nuestro GitHub</a>
                 </div>
             </div>
