@@ -93,7 +93,9 @@
              su navegador no soporta el elemento del audio.
                </audio>
                </body> 
-                    
+                    <h1>
+                    Hola Edu como estas
+                    </h1>
                <head>
                <title>HTML5 Audio Tutorial</title>
     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
