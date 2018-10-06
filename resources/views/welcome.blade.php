@@ -83,7 +83,7 @@
                 </div>
                 <body Styles="margin: 0px; background: #0e0e0e:">
                 <img style="-webkit-user-select: none;cursor: zoom-in;" 
-                src="imagenes\3.jpg" width="811" height="456">
+                src="http://gruporivas.com.mx/wp-content/uploads/2018/04/portada-tatuajes-animales.jpg" width="811" height="456">
                         
                 <article>
                     <h2>    video para la pagina </h2>    
@@ -91,7 +91,8 @@
                          width=400 hight=300>    
                          <source src="aw.ogg" type="video/ogg"/>   
                          <source src="aw.mp4" type="video/mp4"/>
-                         <source src="aw.webm" type="video/webm"/>    
+                         <source src="aw.webm" type="video/webm"/>  
+                          
                     </video>         
                 </article>
 
